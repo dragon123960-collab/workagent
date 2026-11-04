@@ -1,0 +1,6 @@
+{
+  "name": "Lucas 企业智能 Agent 协同系统",
+  "description": "企业级智能 Agent 协作工作台，涵盖飞书深度整合、项目资料库、多Agent自动化协同调度、管理后台与精细化权限管控。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
